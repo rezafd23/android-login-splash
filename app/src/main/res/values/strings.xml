@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">android-login-splash</string>
+    <string name="register">Belum Punya Akun? Click Disini Sekarang!</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="copyright">Copyright of Melbourne University</string>
+</resources>
